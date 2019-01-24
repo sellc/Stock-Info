@@ -37,7 +37,7 @@ public class Stock {
 	public String getSymbol() {
 		return symbol;
 	}
-
+	
 	public Day[] getDays() {
 		return days;
 	}
